@@ -1,0 +1,132 @@
+.menu-top{
+	border-bottom: 1px solid rgb(204, 204, 204); 
+	border-width: 1px; 
+	border-color: rgb(204, 204, 204);		
+}
+.header-left{
+	width: 70%;
+}
+.header-left-title{
+	float: left; 
+	margin-top: 20px;
+	margin-bottom: 7px;
+}
+.header-left-fb{
+	float: left; 
+	padding: 10px; 
+	margin-top: 18px; 
+	margin-left: 20px;
+}
+.header-right{
+	width:30%; 
+	float:right;	
+}
+.header-right-weather{
+	float: left; 
+	font-size: 10px; 
+	border-left: 1px solid rgb(204, 204, 204); 
+	border-bottom: 1px solid rgb(204, 204, 204);
+	border-right: 1px solid rgb(204, 204, 204); 
+	border-width: 1px; 
+	width: 99.5%; 
+	border-color: rgb(204, 204, 204); 
+	padding-bottom: 3px; 
+	padding-top: 7px;	
+}
+.heather-right-weather-text{
+	float: left; 
+	margin-left: 13px; 
+	margin-right: 7px;	
+}
+.heather-right-weather-image{
+	float: left; 
+	border-right: 1px solid rgb(204, 204, 204); 
+	border-width: 1px; 
+	border-color: rgb(204, 204, 204);
+}
+.main-title-left{
+	float: left; 
+	width: 70%; 
+	margin-bottom: 10px; 
+	margin-top: 10px; 
+	border-top: 1px solid grey; 
+	border-width: 1px; 
+	border-color: #CCCCCC; 
+	padding-bottom: 3px;
+}
+.main-title-right{
+	float:left; 
+	width=30%;
+}
+.home-region{
+	float:left;
+	margin-right:45;	
+}
+.infoProd {
+    overflow: hidden;
+}
+.shortDescription {
+    border-top: 1px solid #CCCCCC;
+    margin-bottom: 20px;
+    margin-top: 4px;
+    min-height: 375px;
+    z-index: 0;
+}
+.ch-viewervip {
+    background-color: #FFFFFF;
+    height: 550px;
+    overflow: hidden;
+    position: relative;
+    width: 500px;
+}
+.gallery {
+    float: left;
+    height: 500px;
+    margin: 5px 30px 0 0;
+    overflow: hidden;
+    text-align: center;
+    width: 500px;
+}
+.ch-viewervip-triggers {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.ch-viewervip-content {
+    float: left;
+}
+
+h1 {
+    color: #555555;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    line-height: 33px;
+    margin-top: 0;
+}
+
+.typo {
+    font-family: "Trebuchet MS",Verdana,"DejaVu Sans",sans-serif;
+    font-size: 18px;
+}
+
+.tweet-screen-name {
+  color: #333333 !important;
+  font-weight: bold;
+}
+
+
+.ch-viewer {
+    width:320px;
+}
+
+.ch-viewer-display .ch-viewer-content li {
+    width:320px;
+    height:320px;
+}
+
+.ch-viewer-triggers li {
+    width:41px;
+    height:41px;
+    line-height:40px;
+}

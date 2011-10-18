@@ -1,0 +1,12 @@
+*.orig
+*.class
+*closure
+target
+.settings
+*stacktrace
+.classpath
+web-app/WEB-INF/classes
+web-app/WEB-INF/
+stacktrace.log
+bin/
+.project
