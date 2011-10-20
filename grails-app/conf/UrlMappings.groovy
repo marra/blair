@@ -11,7 +11,7 @@ class UrlMappings {
 		}*/
 		
 		name principal: "/" {
-			controller="city"
+			controller="home"
 			action="home"
 		}
 		
