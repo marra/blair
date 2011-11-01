@@ -10,3 +10,5 @@ web-app/WEB-INF/classes
 stacktrace.log
 bin/
 .project
+devDB.properties
+devDB.script

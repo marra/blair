@@ -1,3 +1,45 @@
+.header-search{
+	background-color: #FFFFFF;
+    border: 1px solid #999999;
+    float: left;
+    font-size: 13px;
+    height: 28px;
+    margin: 0px 6px 0;
+    padding: 2px 5px;
+    position: relative;	
+    line-height: 40px;
+	color: #333333;
+    font: 13px/20px Arial,Helvetica,"Nimbus Sans L",sans-serif;    
+}
+.login-input{
+	background-color: #FFFFFF;
+    border: 1px solid #999999;
+    height: 28px;
+    margin: 0px 6px 0;
+    padding: 2px 5px;
+    line-height: 40px;
+	color: #999999;
+    font: 11px/20px Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+.generic-button{
+	background-color: #5B74A8;
+    border-color: #29447E #29447E #1A356E;
+	border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;     	
+	color: #FFFFFF;
+	height:27px;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;	    
+}
 .menu-top{
 	border-bottom: 1px solid rgb(204, 204, 204); 
 	border-width: 1px; 

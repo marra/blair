@@ -11,7 +11,7 @@
 <body>
 	
 	<div class="menu-top">
-		<div style="float:right;"><a href="">Regístrate</a> | <a href="">Ingresar</a></div>
+		<div style="float:right;"><a href="">Ingresar</a></div>
 	</div>
 	
 	<div class="home-header" style="clear:both;">
@@ -20,12 +20,12 @@
 		</div>
 		
 		<div style="float:left;width:45%;"> 
-			<input type="text" size="60"> <input type="button" value="Buscar">
+			<input type="text" size="40" class="header-search"> <input type="button" value="Buscar" class="generic-button">
 		</div>
 		
 		<div style="float:left;width:35%;">
 			<div>
-				<input type="text" value="Email"> <input type="text" value="Contraseña"> <input type="button" value="Entrar">
+				<input type="text" value="Email" class="login-input" size="15"> <input type="text" value="Contraseña" class="login-input" size="15"> <input type="button" value="Entrar" class="generic-button">
 			</div>
 			<div>
 				<input type="checkbox"> No cerrar sesión <a href>¿Olvidaste tu contraseña?</a> 
@@ -50,9 +50,9 @@
 				<h2><span class="typo">Regístrate</span></h2>
 				<br>
     			<ul>
-					<li> Nombre: <input type="text"> </li>
-					<li> Email: <input type="text"> </li>
-					<li> Password: <input type="password"> </li>
+					<li> Nombre: <input type="text" class="login-input"> </li>
+					<li> Email: <input type="text" class="login-input"> </li>
+					<li> Password: <input type="password" class="login-input"> </li>
 					<li> Sexo: <select><option>Selecciona el sexo:</option><option>Mujer</option><option>Hombre</option></select></li>
 					<li> Fecha de nacimiento:
 						<select name="birthday_day" id="birthday_day">
@@ -113,7 +113,7 @@
 					
 					</li>
 					<li>
-						<input type="button" value="Regístrate">
+						<input type="button" value="Regístrate" class="generic-button">
 					</li>
 	    		</ul>
     		</div>	   
